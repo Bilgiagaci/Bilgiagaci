@@ -1,6 +1,6 @@
 /*
  * Bilgi Ağacı Oyunu - Dil Dosyası
- * Copyright (c) 2025 Beyzz Games
+ * Copyright (c) 2025 BEYZZ GAMES
  * Tüm hakları saklıdır. Bu eserin izinsiz kopyalanması ve dağıtılması yasaktır.
  */
 
