@@ -1,0 +1,22 @@
+{
+  "name": "Bilgi Ağacı - 지식의 나무",
+  "short_name": "Bilgi Ağacı",
+  "description": "Bilginin en eğlenceli yolculuğuna hoş geldin! Sanattan spora, tarihten bilime binlerce soruyla ufkunu genişlet. Öğrenmek hiç bu kadar keyifli olmamıştı!",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#79A6DC",
+  "theme_color": "#79A6DC",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/oyun-ikonu-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/oyun-ikonu-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
