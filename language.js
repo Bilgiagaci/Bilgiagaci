@@ -1,3 +1,9 @@
+/*
+ * Bilgi Ağacı Oyunu - Dil Dosyası
+ * Copyright (c) 2025 Beyzz Games
+ * Tüm hakları saklıdır. Bu eserin izinsiz kopyalanması ve dağıtılması yasaktır.
+ */
+
 const translations = {
     tr: {
         gameTitle: "Bilgi Ağacı",
